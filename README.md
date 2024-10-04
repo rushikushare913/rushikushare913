@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rushikushare913
+- 👀 I’m interested in Data Science and Analytics.
+- 🌱 "I am currently honing my skills in Excel, Python, SQL, Power BI, Machine Learning, NLP, and Deep Learning."
+- 📫 How to reach me https://www.linkedin.com/in/rushikesh-kushare-073822312/
